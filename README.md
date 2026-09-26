@@ -15,20 +15,16 @@ Engineering since 2012. Seven years on Upwork's support platform, the last three
 
 ### Building now
 
-<!-- Link each name to its repo once public. If a repo stays private, leave the name unlinked. -->
-
 - **Finch** *(in development)*: RAG support chatbot. Hybrid retrieval over help-center and ticket data (PostgreSQL + pgvector), LiteLLM gateway with cost-optimized routing, Zendesk ticketing with human handoff, Langfuse for evaluation and observability.
-- [Zendesk Skills](https://github.com/made-on-weekends/zendesk-skills): knowledge pack that gives AI coding agents working competence in Zendesk theme development.
-- [Sync Skills](https://github.com/made-on-weekends/sync-skills): zero-dependency Bash CLI that syncs agent skills across Claude Code, Cursor, Codex and Gemini CLI.
-- [Vibe Code Ninja](https://github.com/made-on-weekends/vibe-code-ninja): agent-skill suite with anti-drift architecture checks, friction logging and evidence-driven skill evolution.
+- **[Zendesk Skills](https://github.com/asifiqbal91/zendesk-skills)**: knowledge pack that gives AI coding agents working competence in Zendesk theme development.
+- **[Sync Skills](https://github.com/asifiqbal91/sync-skills)**: zero-dependency Bash CLI that syncs agent skills across Claude Code, Cursor, Codex and Gemini CLI.
+- **[Vibe Code Ninja](https://github.com/asifiqbal91/vibe-code-ninja)**: agent-skill suite with anti-drift architecture checks, friction logging and evidence-driven skill evolution.
 
 ### Side projects
 
-<!-- Verify these URLs. None of the three were visible on this account's public repo list as of Sept 25, 2026. -->
-
 - [Sprig](https://github.com/made-on-weekends/sprig): Linux desktop app for WhatsApp and Google Messages
 - [SnapIt](https://github.com/made-on-weekends/snap-it): Chrome screenshot extension
-- [Boner Mohis](https://github.com/made-on-weekends/boner-mohis): prepaid meter alerts for Android
+- [Boner Mohis](https://github.com/made-on-weekends/boner-mohis): prepaid meter alerts for Android and Chrome
 
 ### Stack
 
